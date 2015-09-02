@@ -1,7 +1,7 @@
 base    pageredirect
-author  Elan Ruusamäe, David Lorentsen
-email   glen@delfi.ee, zyberdog@quakenet.org
-date    2014-04-14
+author  Phil Hopper, Elan Ruusamäe, David Lorentsen
+email   philhopper@sibertec.com, glen@delfi.ee, zyberdog@quakenet.org
+date    2015-09-02
 name    Page Redirect
 desc    Redirects page requests based on content
-url     https://www.dokuwiki.org/plugin:pageredirect
+url     https://github.com/phillip-hopper/dokuwiki-plugin-pageredirect

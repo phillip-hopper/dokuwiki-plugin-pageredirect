@@ -1,7 +1,7 @@
 Page Redirect Plugin for DokuWiki
 =================================
 
-[![Build Status](https://travis-ci.org/glensc/dokuwiki-plugin-pageredirect.svg?branch=master)](https://travis-ci.org/glensc/dokuwiki-plugin-pageredirect)
+[![Build Status](https://travis-ci.org/phillip-hopper/dokuwiki-plugin-pageredirect.svg?branch=master)](https://travis-ci.org/phillip-hopper/dokuwiki-plugin-pageredirect)
 
 Redirects page requests based on content
 
